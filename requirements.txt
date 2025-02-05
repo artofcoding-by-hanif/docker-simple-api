@@ -1,2 +1,2 @@
 fastapi==0.111.0
-torch
+torch --index-url https://download.pytorch.org/whl/cu124
